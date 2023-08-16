@@ -1,0 +1,1 @@
+Coloque os XML's dentro da pasta nfe
